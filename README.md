@@ -1,6 +1,7 @@
 # Wisdonkara
-Hi, welcome to my README file
-I build modern, responsive interfaces with a strong focus on user experience—how a product not only looks, but how it performs and feels in real-world use. My core stack includes HTML, CSS, JavaScript, TypeScript, React, Next.js, and Tailwind CSS, which I use to create fast, scalable, and maintainable applications.
+Hi, welcome to my README file.
+
+I build modern, responsive interfaces with a strong focus on user experience—how a product not only looks but also performs and feels in real-world use. My core stack includes HTML, CSS, JavaScript, TypeScript, React, Next.js, and Tailwind CSS, which I use to create fast, scalable, and maintainable applications.
 
 With React and Next.js, I work within a component-driven architecture, handling routing, server-side rendering, and performance optimization. I use Tailwind CSS to build clean, consistent UI systems efficiently, while keeping styling scalable and easy to manage.
 
